@@ -1,9 +1,9 @@
 # Illumio-Coding-Assignment-2019-2020-
-Problem Statement: 
+# Problem Statement: 
 
 Given a set of firewall rules, a network packet will  be accepted by the firewall if and only if the direction, protocol, port, and IP address match at  least one of the input rules. If a rule contains a port range, it will match all packets whose port  falls within the range. If a rule contains an IP address range, it will match all packets whose IP  address falls within the range.  
 
-Flow of the Program as Per Guidelines: 
+# Flow of the Program as Per Guidelines: 
 
 [1.]Used Junit test case to test the working  of the code. Its in the "test" folder with the name "FirewallTest.java" 
 
@@ -11,10 +11,6 @@ Flow of the Program as Per Guidelines:
 
 All these files have been stored in the folder "main".
 
-Improvements: 
+# Improvements: 
 
 The code has been designed keeping the asked flow in the challenge (accept_packet takes four argument  returns a boolean). I had an one more thing that I could  have displayed the count of valid inputs and  imported them in a seperate file.  
-
-Work Interest: 
-
-I would be interested in working with the Data team.
